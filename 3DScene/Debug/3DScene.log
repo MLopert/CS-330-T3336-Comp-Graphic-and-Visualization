@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1064,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1191,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1362,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1399,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1400,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1404,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1405,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1406,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\MultipleObjectsExample\MultipleObjectsExample\MultipleObjectsExample\Source.cpp(1407,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3DScene.vcxproj -> C:\Users\Madison\Downloads\3DSceneLopert\3DScene\Debug\3DScene.exe
